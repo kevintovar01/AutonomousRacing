@@ -1,6 +1,3 @@
----
-
-```markdown
 # 🏁 Car Racing Environment Setup with Conda
 
 This guide explains how to set up a development environment for reinforcement learning experiments using the `CarRacing-v3` environment (from Gymnasium) and Stable-Baselines3, using **Miniconda** for dependency management.
@@ -10,7 +7,6 @@ This guide explains how to set up a development environment for reinforcement le
 Make sure you have **Miniconda** installed. You can download it from:  
 👉 https://docs.conda.io/en/latest/miniconda.html
 
----
 
 ## 📦 Step 1: Create and Activate the Conda Environment
 
@@ -128,7 +124,3 @@ This will allow you (or others) to recreate the exact same environment in the fu
 This environment was configured for reinforcement learning with the `CarRacing-v3` Gymnasium environment.
 
 Feel free to contribute or suggest improvements!
-
-```
-
----
