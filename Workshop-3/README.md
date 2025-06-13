@@ -187,12 +187,7 @@ You can modify the training parameters in the notebook:
 - **Evaluation Frequency**: Change `eval_freq` in EvalCallback
 - **Environment Settings**: Modify `env_kwargs_dict` for different configurations
 
-## 📈 Performance Expectations
 
-Training typically shows:
-- Initial random performance (negative rewards)
-- Gradual improvement over 200,000-400,000 timesteps
-- Convergence to positive rewards indicating successful racing behavior
 
 
 
