@@ -2,6 +2,11 @@
 
 This repository contains a complete implementation of Deep Q-Network (DQN) for the CarRacing-v3 environment using Stable-Baselines3. The project demonstrates reinforcement learning techniques applied to autonomous car racing simulation.
 
+
+## Demo en vídeo
+
+[![Mira el demo](https://img.youtube.com/vi/R-0xy6kKuRw/hqdefault.jpg)](https://youtu.be/R-0xy6kKuRw)
+
 ## 📋 Project Overview
 
 This workshop focuses on training an AI agent to autonomously navigate and race in the Gymnasium CarRacing environment using Deep Q-Network (DQN) algorithm. The implementation includes:
