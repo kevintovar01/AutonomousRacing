@@ -5,7 +5,8 @@ This repository contains a complete implementation of Deep Q-Network (DQN) for t
 
 ## Demo en vídeo
 
-[![Mira el demo](https://img.youtube.com/vi/R-0xy6kKuRw/hqdefault.jpg)](https://youtu.be/R-0xy6kKuRw)
+[![Demo del agente RL](https://i.imgur.com/s3Iup2H.gif)](https://i.imgur.com/NZehsje.mp4)
+
 
 ## 📋 Project Overview
 
