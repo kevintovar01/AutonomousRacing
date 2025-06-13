@@ -19,8 +19,8 @@ Workshop-3/
 │   └── [Car_Racing]_Deep_Q_Network_(DQN).ipynb    # Main DQN implementation notebook
 ├── logs/                                          # Training logs and saved models (generated)
 ├── videos/                                        # Recorded gameplay videos (generated)
-├── environment-linux.yml                         # Conda environment for Linux systems
-├── environment-windows.yml                       # Conda environment for Windows systems
+├── environment.yml                         # Conda environment for Linux systems
+├── environmentWIN.yml                       # Conda environment for Windows systems
 └── README.md                                      # This documentation
 ```
 
