@@ -26,9 +26,10 @@ Workshop-3/
 
 ### 📓 Key Files
 
-- **[Main Notebook]([Car_Racing]_Deep_Q_Network_(DQN).ipynb)**: Complete DQN implementation with training, evaluation, and visualization
-- **[Linux Environment](environment-linux.yml)**: Conda environment configuration tested on Linux systems
-- **[Windows Environment](environment-windows.yml)**: Conda environment configuration for Windows systems
+- **[Main Notebook](car_racing/[Car_Racing]_Deep_Q_Network_(DQN).ipynb)**: Complete DQN implementation with training, evaluation, and visualization
+- **[Linux Environment](car_racing/environment.yml)**: Conda environment configuration tested on Linux systems
+- **[Windows Environment](car_racing/environmentWIN.yml)**: Conda environment configuration for Windows systems
+- **[Example Video](videos/best_model_car_racing_dqn.mp4)**: Example video of the trained agent (generated after running the notebook)
 
 ## 🖥️ Environment Setup
 
