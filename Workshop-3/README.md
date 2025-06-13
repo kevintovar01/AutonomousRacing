@@ -44,8 +44,8 @@ The project has been successfully trained and tested on Linux systems:
 
 ```bash
 # Create environment from Linux configuration
-conda env create -f environment-linux.yml
-conda activate car-racing-linux
+conda env create -f environment.yml
+conda activate car-racing
 
 # Launch Jupyter Notebook
 jupyter notebook
@@ -57,8 +57,8 @@ Windows environment configuration is provided but not yet fully tested:
 
 ```bash
 # Create environment from Windows configuration
-conda env create -f environment-windows.yml
-conda activate car-racing-windows
+conda env create -f environmentWIN.yml
+conda activate car-racing
 
 # Launch Jupyter Notebook
 jupyter notebook
